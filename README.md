@@ -113,7 +113,6 @@ Building production-ready backend applications with Python while strengthening m
 - Search
 - Filtering
 - Sorting
-- Pagination
 - SQLAlchemy ORM
 - SQLite Database
 - Pydantic Validation
