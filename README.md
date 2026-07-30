@@ -1,90 +1,113 @@
+<!-- ========================================================= -->
+<!--                     PRANAV KUMAR README                    -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-# Hi there, I'm Pranav Kumar 👋
+# Hi 👋, I'm Pranav Kumar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+Enthusiast;FastAPI+%7C+SQLAlchemy;Always+Learning+Something+New" />
+### Backend Developer | Python | FastAPI
 
-### Backend Developer • Python Enthusiast • AI & ML Undergraduate
-
-<p>
-Building scalable backend applications with Python while continuously improving my problem-solving skills through Data Structures & Algorithms.
-</p>
+Building production-ready backend applications with Python while strengthening my problem-solving skills through Data Structures & Algorithms.
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=Pranavkr323&label=Profile+Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/Pranavkr323?label=Followers&style=social" />
+
+<a href="https://www.linkedin.com/in/pranavkr323/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pk2051872@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Pranav_kr_09/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Pranavkr323">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=Pranavkr323&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-```python
-class Pranav:
+🎓 B.Tech in Artificial Intelligence & Machine Learning
 
-    def __init__(self):
-        self.role = "Backend Developer"
-        self.language = "Python"
-        self.education = "B.Tech AIML"
-        self.currently_learning = [
-            "FastAPI",
-            "SQLAlchemy",
-            "Docker",
-            "PostgreSQL",
-            "System Design"
-        ]
+💻 Passionate about Backend Development with Python
 
-        self.interests = [
-            "Backend Development",
-            "REST APIs",
-            "DSA",
-            "Open Source"
-        ]
+🚀 Building scalable REST APIs using FastAPI & SQLAlchemy
 
-    def life_goal(self):
-        return "Become a skilled Backend Engineer 🚀"
+🧩 Solved **150+ LeetCode** problems while improving algorithmic thinking
+
+🌱 Currently learning **Docker**, **PostgreSQL**, and **System Design**
+
+🎯 Goal: Become a Backend Engineer and build scalable software that solves real-world problems.
+
+---
+
+# 🚀 Current Focus
+
+```text
+📦 Building
+└── AnimeDex API
+
+📚 Learning
+├── Docker
+├── PostgreSQL
+└── System Design
+
+🧩 Practicing
+└── LeetCode
+
+🎯 Goal
+└── Backend Internship
 ```
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql" />
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=sqlite,mysql" />
-<img src="https://img.shields.io/badge/SQLAlchemy-CC2927?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=sqlite,mysql"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman"/>
 </p>
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
 ## 🎌 AnimeDex API
 
-A production-style REST API built using **FastAPI**.
+> **Production-style REST API built with FastAPI.**
 
-### Features
+### Highlights
 
 - CRUD Operations
 - Search
@@ -94,130 +117,151 @@ A production-style REST API built using **FastAPI**.
 - SQLAlchemy ORM
 - SQLite Database
 - Pydantic Validation
-- Proper HTTP Status Codes
+- Clean Project Architecture
+
+**🔗 Repository**
+
+[AnimeDex API](https://github.com/Pranavkr323/Anime-Dex)
+
+---
+
+## 📝 Flask Blog Website
+
+> **Authentication-based blogging platform built using Flask.**
+
+### Highlights
+
+- User Authentication
+- Login & Registration
+- Password Hashing
+- Role-Based Authorization
+- CKEditor Integration
+- CRUD Operations
+- SQLAlchemy ORM
+
+**🔗 Repository**
+
+[Flask Blog Website](https://github.com/Pranavkr323/flask-blog-website)
 
 ---
 
 ## ✈️ Flight Club
 
-Python project that tracks flight prices using multiple APIs.
+> **Flight price tracker using multiple external APIs.**
 
-**Tech Used**
+### Highlights
 
-- Python
-- SerpAPI
-- Sheety
-- Twilio
-- SMTP
+- Flight Price Tracking
+- SerpAPI Integration
+- Google Sheets API (Sheety)
+- Twilio Notifications
+- SMTP Email Alerts
+- Automation Workflow
 
----
+**🔗 Repository**
 
-## 📝 Blog Website
-
-Flask Blogging Platform
-
-- Authentication
-- Password Hashing
-- Login/Register
-- CKEditor
-- CRUD
-- SQLAlchemy
+[Flight Club](https://github.com/Pranavkr323/flight-club)
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pranavkr323&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranavkr323&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavkr323&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavkr323&layout=compact&theme=github_dark&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+<br>
 
-<img src="https://streak-stats.demolab.com?user=Pranavkr323&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-</p>
+<img src="https://streak-stats.demolab.com?user=Pranavkr323&theme=github-dark-blue&hide_border=true"/>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pranavkr323&theme=tokyonight&no-frame=true&column=4"/>
-
-</p>
+</div>
 
 ---
 
-# 🌱 Currently Learning
+# 📈 Contribution Graph
 
-- Docker
-- PostgreSQL
-- Redis
-- JWT Authentication
-- System Design
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranavkr323&theme=github-dark&hide_border=true"/>
 
-# 🎯 2026 Goals
-
-- ✅ Build Production Ready Backend Projects
-- ✅ Learn Docker
-- ✅ Learn PostgreSQL
-- ✅ Learn Redis
-- ✅ Contribute to Open Source
-- 🎯 Secure a Backend Internship
+</div>
 
 ---
 
-# 📊 Contribution Graph
+# 🧩 LeetCode
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranavkr323&theme=tokyo-night&hide_border=true"/>
+<a href="https://leetcode.com/u/Pranav_kr_09/">
 
-</p>
+<img src="https://img.shields.io/badge/LeetCode-Visit%20Profile-orange?style=for-the-badge&logo=leetcode"/>
+
+</a>
+
+</div>
+
+I regularly solve Data Structures & Algorithms problems to strengthen my
+problem-solving skills and write efficient, optimized solutions.
+
+**Current Focus**
+
+- Arrays
+- Hashing
+- Binary Search
+- Sliding Window
+- Stack
+- Queue
+- Linked Lists
+- Recursion
+- Dynamic Programing
 
 ---
+
 
 # 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Pranavkr323/Pranavkr323/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-</p>
+</div>
 
 ---
 
-# 🤝 Connect With Me
+# 📫 Let's Connect
 
-<p align="center">
+<div align="center">
 
-<a href="www.linkedin.com/in/pranavkr323">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/pranavkr323/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:pk2051872@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Pranav_kr_09/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Pranavkr323">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### 💡 "Consistency beats intensity."
+### ⭐ Thanks for visiting my profile!
 
-⭐ Thanks for visiting my profile!
+If you like my work, consider checking out my repositories and connecting with me on LinkedIn.
 
 </div>
