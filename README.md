@@ -167,9 +167,9 @@ Building production-ready backend applications with Python while strengthening m
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranavkr323&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=Pranavkr323&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavkr323&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Pranavkr323&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -177,7 +177,7 @@ Building production-ready backend applications with Python while strengthening m
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Pranavkr323&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Pranavkr323&theme=github-dark&hide_border=true"/>
 
 </div>
 
