@@ -44,7 +44,7 @@ Building production-ready backend applications with Python while strengthening m
 
 🚀 Building scalable REST APIs using FastAPI & SQLAlchemy
 
-🧩 Solved **150+ LeetCode** problems while improving algorithmic thinking
+🧩 Solved **200+ LeetCode** problems while improving algorithmic thinking
 
 🌱 Currently learning **Docker**, **PostgreSQL**, and **System Design**
 
@@ -64,7 +64,8 @@ Building production-ready backend applications with Python while strengthening m
 └── System Design
 
 🧩 Practicing
-└── LeetCode
+├── LeetCode
+├── GeeksForGeeks
 
 🎯 Goal
 └── Backend Internship
@@ -109,13 +110,19 @@ Building production-ready backend applications with Python while strengthening m
 
 ### Highlights
 
+- RESTful API Architecture
 - CRUD Operations
-- Search
-- Filtering
-- Sorting
+- Search, Filtering & Sorting
 - SQLAlchemy ORM
 - SQLite Database
 - Pydantic Validation
+- User Registration & Login
+- Password Hashing & Verification
+- JWT Authentication using joserfc
+- HTTP Bearer Authentication
+- Protected Routes using FastAPI Dependencies
+- Custom Timer Middleware
+- X-Process-Time Response Header
 - Clean Project Architecture
 
 **🔗 Repository**
