@@ -44,7 +44,7 @@ Building production-ready backend applications with Python while strengthening m
 
 🚀 Building scalable REST APIs using FastAPI & SQLAlchemy
 
-🧩 Solved **200+ LeetCode** problems while improving algorithmic thinking
+🧩 Solved **300+ LeetCode** problems while improving algorithmic thinking
 
 🌱 Currently learning **Docker**, **PostgreSQL**, and **System Design**
 
@@ -68,7 +68,7 @@ Building production-ready backend applications with Python while strengthening m
 ├── GeeksForGeeks
 
 🎯 Goal
-└── Backend Internship
+└── Becoming a good Developer
 ```
 
 ---
@@ -91,7 +91,7 @@ Building production-ready backend applications with Python while strengthening m
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=sqlite,mysql"/>
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql"/>
 </p>
 
 ### Tools
